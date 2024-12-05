@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 const listProxy = [
-    { path: '/akamai', proxy: '172.232.238.169' },
+    { path: '/akamai', proxy: '45.60.186.91' },
     { path: '/kr', proxy: '52.141.25.42'},
     { path: '/us', proxy: '91.186.208.191'},
     { path: '/gcp', proxy: '34.34.217.201' },
