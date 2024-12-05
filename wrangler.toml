@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "00000000-0000-0000-0000-000000000000"
+UUID = "697b9df8-4c49-427e-9edd-72a8acfb36ad"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
